@@ -15,7 +15,7 @@ interface Animal {
 const animals: Animal[] = [
   {
     id: 1,
-    name: "Lion",
+    name: "Lions",
     description: "The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body; short, rounded head; round ears; and a hairy tuft at the end of its tail.",
     image: "https://images.pexels.com/photos/247376/pexels-photo-247376.jpeg?auto=compress&w=800&h=600&fit=crop",
     category: "Mammal",

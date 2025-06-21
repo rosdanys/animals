@@ -1,6 +1,1 @@
-{
-  "/api/animals/route": "app/api/animals/route.js",
-  "/page": "app/page.js",
-  "/animals/[id]/page": "app/animals/[id]/page.js",
-  "/api/animals/[id]/route": "app/api/animals/[id]/route.js"
-}
+{}
